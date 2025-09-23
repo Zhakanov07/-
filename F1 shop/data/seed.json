@@ -1,0 +1,1394 @@
+{
+  "eras": [
+    {
+      "id": "era_1",
+      "name": "Атмосферная эра V12/V10 (1989-1999)",
+      "parent": null
+    },
+    {
+      "id": "era_2",
+      "name": "Эра V10 (2000-2005)",
+      "parent": null
+    },
+    {
+      "id": "era_3",
+      "name": "Эра V8 (2006-2013)",
+      "parent": null
+    },
+    {
+      "id": "era_4",
+      "name": "Гибридная эра V6 (2014-2021)",
+      "parent": null
+    },
+    {
+      "id": "era_5",
+      "name": "Современная эра (2022+)",
+      "parent": null
+    }
+  ],
+  "bolids": [
+    {
+      "id": "bolid_1",
+      "name": "Jordan Voice2014",
+      "team": "Jordan",
+      "year": 2014,
+      "price": 3628010,
+      "era_id": "era_1",
+      "tags": [
+        "Аэродинамический",
+        "Гибрид"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_2",
+      "name": "Red Bull Racing Past2020",
+      "team": "Red Bull Racing",
+      "year": 2020,
+      "price": 1932430,
+      "era_id": "era_5",
+      "tags": [
+        "V8"
+      ],
+      "quantity_available": 1,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_3",
+      "name": "Williams Season2006",
+      "team": "Williams",
+      "year": 2006,
+      "price": 1332801,
+      "era_id": "era_3",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_4",
+      "name": "Williams Blood2020",
+      "team": "Williams",
+      "year": 2020,
+      "price": 3067816,
+      "era_id": "era_4",
+      "tags": [
+        "Аэродинамический",
+        "V10"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_5",
+      "name": "Jordan Near2018",
+      "team": "Jordan",
+      "year": 2018,
+      "price": 2285167,
+      "era_id": "era_1",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_6",
+      "name": "Williams Minute1990",
+      "team": "Williams",
+      "year": 1990,
+      "price": 2894540,
+      "era_id": "era_2",
+      "tags": [
+        "Чемпионский",
+        "V10"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_7",
+      "name": "Jordan Change2005",
+      "team": "Jordan",
+      "year": 2005,
+      "price": 4654929,
+      "era_id": "era_4",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 2,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_8",
+      "name": "Mercedes Fish2021",
+      "team": "Mercedes",
+      "year": 2021,
+      "price": 4724364,
+      "era_id": "era_3",
+      "tags": [
+        "Аэродинамический"
+      ],
+      "quantity_available": 2,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_9",
+      "name": "Jordan Player2003",
+      "team": "Jordan",
+      "year": 2003,
+      "price": 4690498,
+      "era_id": "era_5",
+      "tags": [
+        "Гибрид",
+        "Чемпионский"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_10",
+      "name": "Williams Effort2010",
+      "team": "Williams",
+      "year": 2010,
+      "price": 2535460,
+      "era_id": "era_2",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_11",
+      "name": "McLaren Authority2006",
+      "team": "McLaren",
+      "year": 2006,
+      "price": 853501,
+      "era_id": "era_2",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_12",
+      "name": "Jordan Season2015",
+      "team": "Jordan",
+      "year": 2015,
+      "price": 4500445,
+      "era_id": "era_3",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_13",
+      "name": "Williams Face2016",
+      "team": "Williams",
+      "year": 2016,
+      "price": 3879597,
+      "era_id": "era_4",
+      "tags": [
+        "Чемпионский",
+        "V8"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_14",
+      "name": "Williams Professor2021",
+      "team": "Williams",
+      "year": 2021,
+      "price": 2912452,
+      "era_id": "era_2",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_15",
+      "name": "Renault Discussion1997",
+      "team": "Renault",
+      "year": 1997,
+      "price": 3221067,
+      "era_id": "era_2",
+      "tags": [
+        "Гибрид",
+        "Чемпионский"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_16",
+      "name": "Mercedes Technology2004",
+      "team": "Mercedes",
+      "year": 2004,
+      "price": 4913937,
+      "era_id": "era_5",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_17",
+      "name": "McLaren Benefit1997",
+      "team": "McLaren",
+      "year": 1997,
+      "price": 3204958,
+      "era_id": "era_1",
+      "tags": [
+        "Аэродинамический"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_18",
+      "name": "Renault Candidate2001",
+      "team": "Renault",
+      "year": 2001,
+      "price": 4120103,
+      "era_id": "era_2",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_19",
+      "name": "Jordan Ever1996",
+      "team": "Jordan",
+      "year": 1996,
+      "price": 687238,
+      "era_id": "era_2",
+      "tags": [
+        "V8"
+      ],
+      "quantity_available": 2,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_20",
+      "name": "Mercedes Most2001",
+      "team": "Mercedes",
+      "year": 2001,
+      "price": 4018580,
+      "era_id": "era_1",
+      "tags": [
+        "Гибрид"
+      ],
+      "quantity_available": 1,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_21",
+      "name": "Renault Many2012",
+      "team": "Renault",
+      "year": 2012,
+      "price": 4879564,
+      "era_id": "era_2",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_22",
+      "name": "Red Bull Racing Next2000",
+      "team": "Red Bull Racing",
+      "year": 2000,
+      "price": 2202917,
+      "era_id": "era_1",
+      "tags": [
+        "V10",
+        "Чемпионский"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_23",
+      "name": "Red Bull Racing Range2022",
+      "team": "Red Bull Racing",
+      "year": 2022,
+      "price": 3096005,
+      "era_id": "era_4",
+      "tags": [
+        "V10",
+        "Чемпионский"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_24",
+      "name": "Renault Answer2011",
+      "team": "Renault",
+      "year": 2011,
+      "price": 4666082,
+      "era_id": "era_3",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_25",
+      "name": "Renault Her2008",
+      "team": "Renault",
+      "year": 2008,
+      "price": 1210184,
+      "era_id": "era_3",
+      "tags": [
+        "Гибрид",
+        "Чемпионский"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_26",
+      "name": "Renault Good2002",
+      "team": "Renault",
+      "year": 2002,
+      "price": 1442846,
+      "era_id": "era_2",
+      "tags": [
+        "Гибрид"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_27",
+      "name": "Mercedes Interest2016",
+      "team": "Mercedes",
+      "year": 2016,
+      "price": 4860303,
+      "era_id": "era_4",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_28",
+      "name": "Renault Coach2006",
+      "team": "Renault",
+      "year": 2006,
+      "price": 3844378,
+      "era_id": "era_5",
+      "tags": [
+        "Аэродинамический",
+        "Чемпионский"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_29",
+      "name": "Red Bull Racing Third2010",
+      "team": "Red Bull Racing",
+      "year": 2010,
+      "price": 4016575,
+      "era_id": "era_1",
+      "tags": [
+        "V10",
+        "Чемпионский"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_30",
+      "name": "McLaren Resource1990",
+      "team": "McLaren",
+      "year": 1990,
+      "price": 3602118,
+      "era_id": "era_3",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_31",
+      "name": "Williams Billion2023",
+      "team": "Williams",
+      "year": 2023,
+      "price": 1697693,
+      "era_id": "era_1",
+      "tags": [
+        "V8"
+      ],
+      "quantity_available": 2,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_32",
+      "name": "McLaren Too1996",
+      "team": "McLaren",
+      "year": 1996,
+      "price": 3427728,
+      "era_id": "era_1",
+      "tags": [
+        "V8"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_33",
+      "name": "Ferrari Ready2006",
+      "team": "Ferrari",
+      "year": 2006,
+      "price": 4469336,
+      "era_id": "era_3",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 2,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_34",
+      "name": "Mercedes Describe1992",
+      "team": "Mercedes",
+      "year": 1992,
+      "price": 2278264,
+      "era_id": "era_5",
+      "tags": [
+        "V8",
+        "Чемпионский"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_35",
+      "name": "Renault Quickly2021",
+      "team": "Renault",
+      "year": 2021,
+      "price": 3947555,
+      "era_id": "era_4",
+      "tags": [
+        "Аэродинамический",
+        "V10"
+      ],
+      "quantity_available": 1,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_36",
+      "name": "Mercedes Certainly2008",
+      "team": "Mercedes",
+      "year": 2008,
+      "price": 1366874,
+      "era_id": "era_3",
+      "tags": [
+        "V8",
+        "Аэродинамический"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_37",
+      "name": "Jordan Pressure2011",
+      "team": "Jordan",
+      "year": 2011,
+      "price": 399183,
+      "era_id": "era_1",
+      "tags": [
+        "V10",
+        "Аэродинамический"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_38",
+      "name": "McLaren Official2013",
+      "team": "McLaren",
+      "year": 2013,
+      "price": 1187507,
+      "era_id": "era_3",
+      "tags": [
+        "Гибрид"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_39",
+      "name": "Red Bull Racing Country1993",
+      "team": "Red Bull Racing",
+      "year": 1993,
+      "price": 4487663,
+      "era_id": "era_1",
+      "tags": [
+        "Гибрид",
+        "V8"
+      ],
+      "quantity_available": 2,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_40",
+      "name": "Mercedes Option1996",
+      "team": "Mercedes",
+      "year": 1996,
+      "price": 4136365,
+      "era_id": "era_4",
+      "tags": [
+        "V8",
+        "Чемпионский"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    },
+    {
+      "id": "bolid_41",
+      "name": "McLaren Always2021",
+      "team": "McLaren",
+      "year": 2021,
+      "price": 2632546,
+      "era_id": "era_3",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Alpine/A523-side.jpg"
+    },
+    {
+      "id": "bolid_42",
+      "name": "Jordan Purpose2014",
+      "team": "Jordan",
+      "year": 2014,
+      "price": 829152,
+      "era_id": "era_1",
+      "tags": [
+        "V10"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_43",
+      "name": "McLaren Across1993",
+      "team": "McLaren",
+      "year": 1993,
+      "price": 922725,
+      "era_id": "era_4",
+      "tags": [
+        "Гибрид",
+        "Аэродинамический"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_44",
+      "name": "Mercedes Home2017",
+      "team": "Mercedes",
+      "year": 2017,
+      "price": 1946650,
+      "era_id": "era_3",
+      "tags": [
+        "Гибрид"
+      ],
+      "quantity_available": 1,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_45",
+      "name": "Mercedes Term1997",
+      "team": "Mercedes",
+      "year": 1997,
+      "price": 331684,
+      "era_id": "era_5",
+      "tags": [
+        "V10",
+        "Чемпионский"
+      ],
+      "quantity_available": 3,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_46",
+      "name": "Ferrari Put2006",
+      "team": "Ferrari",
+      "year": 2006,
+      "price": 453172,
+      "era_id": "era_2",
+      "tags": [
+        "Чемпионский"
+      ],
+      "quantity_available": 1,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_47",
+      "name": "Red Bull Racing Office2014",
+      "team": "Red Bull Racing",
+      "year": 2014,
+      "price": 1369484,
+      "era_id": "era_1",
+      "tags": [
+        "V10",
+        "Гибрид"
+      ],
+      "quantity_available": 5,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/McLaren/MCL60-side.jpg"
+    },
+    {
+      "id": "bolid_48",
+      "name": "McLaren Respond2023",
+      "team": "McLaren",
+      "year": 2023,
+      "price": 2804993,
+      "era_id": "era_4",
+      "tags": [
+        "V10",
+        "Аэродинамический"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Red-Bull-Racing/Red-Bull-RB19-side-2.jpg"
+    },
+    {
+      "id": "bolid_49",
+      "name": "Jordan Fund2010",
+      "team": "Jordan",
+      "year": 2010,
+      "price": 397529,
+      "era_id": "era_5",
+      "tags": [
+        "V8"
+      ],
+      "quantity_available": 4,
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1920,q_auto/f_auto,c_limit,w_1920,q_auto/f1-website/2023/Car-launches/Ferrari/SF-23_side_view.jpg"
+    },
+    {
+      "id": "bolid_50",
+      "name": "Williams Financial2014",
+      "team": "Williams",
+      "year": 2014,
+      "price": 4046264,
+      "era_id": "era_1",
+      "tags": [
+        "Аэродинамический"
+      ],
+      "quantity_available": 0,
+      "image_url": "https://www.mercedesamgf1.com/wp-content/uploads/sites/3/2023/02/W14_render_34_front_16x9_g-1.jpg"
+    }
+  ],
+  "collectors": [
+    {
+      "id": "coll_1",
+      "name": "Andrew Smith",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_2",
+      "name": "Christopher Hernandez",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_3",
+      "name": "Kathy Santana",
+      "tier": "Paddock Club"
+    },
+    {
+      "id": "coll_4",
+      "name": "Meghan Trujillo",
+      "tier": "Paddock Club"
+    },
+    {
+      "id": "coll_5",
+      "name": "Susan Harris",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_6",
+      "name": "Karen Gibbs",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_7",
+      "name": "Cynthia Hancock",
+      "tier": "Paddock Club"
+    },
+    {
+      "id": "coll_8",
+      "name": "April White",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_9",
+      "name": "Johnny Green",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_10",
+      "name": "Janet Reyes",
+      "tier": "Paddock Club"
+    },
+    {
+      "id": "coll_11",
+      "name": "Bethany Mitchell",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_12",
+      "name": "Andrew Butler",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_13",
+      "name": "Lindsay Miller",
+      "tier": "Paddock Club"
+    },
+    {
+      "id": "coll_14",
+      "name": "Heather Johnson",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_15",
+      "name": "Anthony Ruiz",
+      "tier": "Paddock Club"
+    },
+    {
+      "id": "coll_16",
+      "name": "Kyle Anderson",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_17",
+      "name": "Joshua Reed",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_18",
+      "name": "Paula Rodriguez",
+      "tier": "Paddock Club"
+    },
+    {
+      "id": "coll_19",
+      "name": "Julie Chen",
+      "tier": "Grandstand"
+    },
+    {
+      "id": "coll_20",
+      "name": "Tracy Reeves",
+      "tier": "Grandstand"
+    }
+  ],
+  "purchase_orders": [
+    {
+      "id": "order_1",
+      "collector_id": "coll_10",
+      "items": [
+        {
+          "bolid_id": "bolid_25",
+          "quantity": 1
+        }
+      ],
+      "total_price": 1210184,
+      "timestamp": "2020-10-01T13:32:37"
+    },
+    {
+      "id": "order_2",
+      "collector_id": "coll_2",
+      "items": [
+        {
+          "bolid_id": "bolid_8",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_34",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_13",
+          "quantity": 1
+        }
+      ],
+      "total_price": 10882225,
+      "timestamp": "2023-03-23T13:14:10"
+    },
+    {
+      "id": "order_3",
+      "collector_id": "coll_7",
+      "items": [
+        {
+          "bolid_id": "bolid_29",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_24",
+          "quantity": 1
+        }
+      ],
+      "total_price": 8682657,
+      "timestamp": "2000-12-29T18:34:46"
+    },
+    {
+      "id": "order_4",
+      "collector_id": "coll_2",
+      "items": [
+        {
+          "bolid_id": "bolid_41",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_5",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4917713,
+      "timestamp": "1972-09-20T17:24:07"
+    },
+    {
+      "id": "order_5",
+      "collector_id": "coll_17",
+      "items": [
+        {
+          "bolid_id": "bolid_17",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_2",
+          "quantity": 1
+        }
+      ],
+      "total_price": 5137388,
+      "timestamp": "2015-05-11T05:23:23"
+    },
+    {
+      "id": "order_6",
+      "collector_id": "coll_3",
+      "items": [
+        {
+          "bolid_id": "bolid_37",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_14",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_15",
+          "quantity": 1
+        }
+      ],
+      "total_price": 6532702,
+      "timestamp": "2022-10-31T02:25:29"
+    },
+    {
+      "id": "order_7",
+      "collector_id": "coll_17",
+      "items": [
+        {
+          "bolid_id": "bolid_50",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_33",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_45",
+          "quantity": 1
+        }
+      ],
+      "total_price": 8847284,
+      "timestamp": "1998-08-03T22:02:33"
+    },
+    {
+      "id": "order_8",
+      "collector_id": "coll_14",
+      "items": [
+        {
+          "bolid_id": "bolid_20",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_8",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_10",
+          "quantity": 1
+        }
+      ],
+      "total_price": 11278404,
+      "timestamp": "2008-07-08T07:53:20"
+    },
+    {
+      "id": "order_9",
+      "collector_id": "coll_14",
+      "items": [
+        {
+          "bolid_id": "bolid_6",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_7",
+          "quantity": 1
+        }
+      ],
+      "total_price": 7549469,
+      "timestamp": "1974-04-13T22:55:57"
+    },
+    {
+      "id": "order_10",
+      "collector_id": "coll_5",
+      "items": [
+        {
+          "bolid_id": "bolid_27",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4860303,
+      "timestamp": "2019-12-20T14:41:04"
+    },
+    {
+      "id": "order_11",
+      "collector_id": "coll_14",
+      "items": [
+        {
+          "bolid_id": "bolid_29",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4016575,
+      "timestamp": "2016-09-17T00:20:52"
+    },
+    {
+      "id": "order_12",
+      "collector_id": "coll_11",
+      "items": [
+        {
+          "bolid_id": "bolid_2",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_32",
+          "quantity": 1
+        }
+      ],
+      "total_price": 5360158,
+      "timestamp": "2019-03-03T21:33:17"
+    },
+    {
+      "id": "order_13",
+      "collector_id": "coll_3",
+      "items": [
+        {
+          "bolid_id": "bolid_6",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_23",
+          "quantity": 1
+        }
+      ],
+      "total_price": 5990545,
+      "timestamp": "1978-04-05T20:47:48"
+    },
+    {
+      "id": "order_14",
+      "collector_id": "coll_12",
+      "items": [
+        {
+          "bolid_id": "bolid_45",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_2",
+          "quantity": 1
+        }
+      ],
+      "total_price": 2264114,
+      "timestamp": "1993-09-03T13:09:01"
+    },
+    {
+      "id": "order_15",
+      "collector_id": "coll_8",
+      "items": [
+        {
+          "bolid_id": "bolid_1",
+          "quantity": 1
+        }
+      ],
+      "total_price": 3628010,
+      "timestamp": "1994-11-23T01:40:44"
+    },
+    {
+      "id": "order_16",
+      "collector_id": "coll_5",
+      "items": [
+        {
+          "bolid_id": "bolid_39",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4487663,
+      "timestamp": "1984-02-26T07:44:03"
+    },
+    {
+      "id": "order_17",
+      "collector_id": "coll_4",
+      "items": [
+        {
+          "bolid_id": "bolid_14",
+          "quantity": 1
+        }
+      ],
+      "total_price": 2912452,
+      "timestamp": "2020-11-25T01:33:11"
+    },
+    {
+      "id": "order_18",
+      "collector_id": "coll_12",
+      "items": [
+        {
+          "bolid_id": "bolid_19",
+          "quantity": 1
+        }
+      ],
+      "total_price": 687238,
+      "timestamp": "2016-12-01T18:46:25"
+    },
+    {
+      "id": "order_19",
+      "collector_id": "coll_8",
+      "items": [
+        {
+          "bolid_id": "bolid_39",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4487663,
+      "timestamp": "1979-08-28T15:09:16"
+    },
+    {
+      "id": "order_20",
+      "collector_id": "coll_4",
+      "items": [
+        {
+          "bolid_id": "bolid_30",
+          "quantity": 1
+        }
+      ],
+      "total_price": 3602118,
+      "timestamp": "2002-06-10T06:59:32"
+    },
+    {
+      "id": "order_21",
+      "collector_id": "coll_5",
+      "items": [
+        {
+          "bolid_id": "bolid_46",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_17",
+          "quantity": 1
+        }
+      ],
+      "total_price": 3658130,
+      "timestamp": "1971-11-26T08:36:53"
+    },
+    {
+      "id": "order_22",
+      "collector_id": "coll_11",
+      "items": [
+        {
+          "bolid_id": "bolid_24",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4666082,
+      "timestamp": "2002-03-19T16:26:34"
+    },
+    {
+      "id": "order_23",
+      "collector_id": "coll_11",
+      "items": [
+        {
+          "bolid_id": "bolid_19",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_36",
+          "quantity": 1
+        }
+      ],
+      "total_price": 2054112,
+      "timestamp": "1982-07-11T11:26:47"
+    },
+    {
+      "id": "order_24",
+      "collector_id": "coll_19",
+      "items": [
+        {
+          "bolid_id": "bolid_6",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_7",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_35",
+          "quantity": 1
+        }
+      ],
+      "total_price": 11497024,
+      "timestamp": "1990-12-11T11:29:03"
+    },
+    {
+      "id": "order_25",
+      "collector_id": "coll_5",
+      "items": [
+        {
+          "bolid_id": "bolid_25",
+          "quantity": 1
+        }
+      ],
+      "total_price": 1210184,
+      "timestamp": "1978-07-10T18:10:49"
+    },
+    {
+      "id": "order_26",
+      "collector_id": "coll_17",
+      "items": [
+        {
+          "bolid_id": "bolid_21",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4879564,
+      "timestamp": "1986-07-11T18:55:27"
+    },
+    {
+      "id": "order_27",
+      "collector_id": "coll_6",
+      "items": [
+        {
+          "bolid_id": "bolid_49",
+          "quantity": 1
+        }
+      ],
+      "total_price": 397529,
+      "timestamp": "1989-10-22T07:45:57"
+    },
+    {
+      "id": "order_28",
+      "collector_id": "coll_2",
+      "items": [
+        {
+          "bolid_id": "bolid_27",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_43",
+          "quantity": 1
+        }
+      ],
+      "total_price": 5783028,
+      "timestamp": "1978-12-31T16:32:22"
+    },
+    {
+      "id": "order_29",
+      "collector_id": "coll_3",
+      "items": [
+        {
+          "bolid_id": "bolid_2",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_26",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_5",
+          "quantity": 1
+        }
+      ],
+      "total_price": 5660443,
+      "timestamp": "1978-12-26T09:09:45"
+    },
+    {
+      "id": "order_30",
+      "collector_id": "coll_14",
+      "items": [
+        {
+          "bolid_id": "bolid_20",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_36",
+          "quantity": 1
+        }
+      ],
+      "total_price": 5385454,
+      "timestamp": "2020-06-01T15:25:49"
+    },
+    {
+      "id": "order_31",
+      "collector_id": "coll_14",
+      "items": [
+        {
+          "bolid_id": "bolid_38",
+          "quantity": 1
+        }
+      ],
+      "total_price": 1187507,
+      "timestamp": "1990-04-13T12:41:35"
+    },
+    {
+      "id": "order_32",
+      "collector_id": "coll_15",
+      "items": [
+        {
+          "bolid_id": "bolid_23",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_6",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_16",
+          "quantity": 1
+        }
+      ],
+      "total_price": 10904482,
+      "timestamp": "2013-01-22T19:22:32"
+    },
+    {
+      "id": "order_33",
+      "collector_id": "coll_2",
+      "items": [
+        {
+          "bolid_id": "bolid_41",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_34",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4910810,
+      "timestamp": "1995-08-14T06:17:15"
+    },
+    {
+      "id": "order_34",
+      "collector_id": "coll_11",
+      "items": [
+        {
+          "bolid_id": "bolid_1",
+          "quantity": 1
+        },
+        {
+          "bolid_id": "bolid_27",
+          "quantity": 1
+        }
+      ],
+      "total_price": 8488313,
+      "timestamp": "2000-01-12T12:08:44"
+    },
+    {
+      "id": "order_35",
+      "collector_id": "coll_10",
+      "items": [
+        {
+          "bolid_id": "bolid_24",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4666082,
+      "timestamp": "2002-01-16T23:21:51"
+    },
+    {
+      "id": "order_36",
+      "collector_id": "coll_4",
+      "items": [
+        {
+          "bolid_id": "bolid_12",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4500445,
+      "timestamp": "1988-11-06T03:11:18"
+    },
+    {
+      "id": "order_37",
+      "collector_id": "coll_20",
+      "items": [
+        {
+          "bolid_id": "bolid_36",
+          "quantity": 1
+        }
+      ],
+      "total_price": 1366874,
+      "timestamp": "2016-10-31T07:28:22"
+    },
+    {
+      "id": "order_38",
+      "collector_id": "coll_15",
+      "items": [
+        {
+          "bolid_id": "bolid_45",
+          "quantity": 1
+        }
+      ],
+      "total_price": 331684,
+      "timestamp": "1997-02-19T15:41:33"
+    },
+    {
+      "id": "order_39",
+      "collector_id": "coll_14",
+      "items": [
+        {
+          "bolid_id": "bolid_50",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4046264,
+      "timestamp": "1999-05-19T08:55:17"
+    },
+    {
+      "id": "order_40",
+      "collector_id": "coll_15",
+      "items": [
+        {
+          "bolid_id": "bolid_16",
+          "quantity": 1
+        }
+      ],
+      "total_price": 4913937,
+      "timestamp": "1993-03-01T09:17:32"
+    }
+  ]
+}
